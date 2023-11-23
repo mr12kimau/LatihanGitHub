@@ -1,0 +1,2 @@
+# LatihanGitHub
+Percobaan Menggunakan Git
